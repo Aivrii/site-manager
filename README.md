@@ -1,5 +1,1 @@
-# glowing-memory
-Builder for Capture Script
-
-### Template
-Dashboard: https://adminlte.io/themes/v3/
+# Web 7.0 dashboard
